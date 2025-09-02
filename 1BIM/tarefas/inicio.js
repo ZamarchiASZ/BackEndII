@@ -3,6 +3,7 @@ import express from 'express';
 
 const app = express();
 
+
 app.get('/Haikyuu', (req, res) =>  {
     res.json(colecaoHaikyuu);
 });
