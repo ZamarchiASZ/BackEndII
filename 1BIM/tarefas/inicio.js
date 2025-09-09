@@ -1,4 +1,4 @@
-import colecaoHaikyuu from "../tarefas/dados.js";
+import colecaoHaikyuu from "./tarefas/dados.js";
 import express from 'express';
 
 const app = express();
